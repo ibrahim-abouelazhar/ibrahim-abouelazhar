@@ -79,7 +79,9 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Ibrahim_Abouelazhar-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-abouelazhar/) [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:abouelazhar.ibrahim@gmail.com)
 
-<img src="assets/alright.gif" width="300">
+<p align="center">
+  <img src="assets/alright.gif" width="300">
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibrahim-abouelazhar/ibrahim-abouelazhar/output/github-snake-dark.svg">
