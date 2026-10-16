@@ -73,14 +73,13 @@
 - :robot: I build ML models, RAG applications and data pipelines, from raw data to working APIs and dashboards
 - :brain: Main interests: generative AI & LLMs, deep learning and data engineering
 - :dart: Goal: master AI and use it to build solutions that matter in the real world
-- :seedling: Currently exploring: Microsoft Azure (Azure Fundamentals certification in progress)
 - :handshake: Open to: collaborating on AI and data projects
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Ibrahim_Abouelazhar-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-abouelazhar/) [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:abouelazhar.ibrahim@gmail.com)
 
-<img src="assets/alright.png" width="30">
+<img src="assets/alright.gif" width="30">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibrahim-abouelazhar/ibrahim-abouelazhar/output/github-snake-dark.svg">
