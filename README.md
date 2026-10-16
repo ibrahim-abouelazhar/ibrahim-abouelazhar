@@ -65,7 +65,7 @@
   <a href="https://react.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
 </p>
 
-**Also working with:**  LangGraph · Hugging Face · MLflow · SSIS · Talend · Pentaho · Power BI · Tableau · n8n · Power Automate
+**Also working with:**  LangChain · LangGraph · Hugging Face · MLflow · SSIS · Talend · Pentaho · Power BI · Tableau · n8n · Power Automate
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
